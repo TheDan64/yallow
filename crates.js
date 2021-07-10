@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["aho_corasick","cfg_if","either","inkwell","inkwell_internals","instant","libc","llvm_sys","lock_api","memchr","once_cell","parking_lot","parking_lot_core","proc_macro2","quote","regex","regex_syntax","scopeguard","smallvec","syn","unicode_xid"];

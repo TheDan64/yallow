@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["LLVMAddAddDiscriminatorsPass",""],["LLVMAddLowerSwitchPass",""],["LLVMAddPromoteMemoryToRegisterPass",""]]});
